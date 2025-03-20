@@ -1,6 +1,6 @@
 # programming-lecture
 
 # My Project
-This is my first GitHub repository.
+This is my first ever GitHub repository.
 
-Change in README branch "feature-1"
+Change in README for branch "feature-1"
